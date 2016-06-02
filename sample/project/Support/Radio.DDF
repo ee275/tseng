@@ -1,0 +1,48 @@
+.OPTION EXPLICIT
+.Set Cabinet=off
+.Set Compress=off
+.Set MaxDiskSize=CDROM
+.Set ReservePerCabinetSize=6144
+.Set DiskDirectoryTemplate=".."
+.Set CompressionType=MSZIP
+.Set CompressionLevel=7
+.Set CompressionMemory=21
+.Set CabinetNameTemplate="Radio.CAB"
+"Setup.Lst"
+"setup.exe"
+.Set Cabinet=on
+.Set Compress=on
+"Radio.exe"
+"msvbvm60.dll"
+"oleaut32.dll"
+"olepro32.dll"
+"asycfilt.dll"
+"stdole2.tlb"
+"COMCAT.DLL"
+"Vb6ko.dll"
+"msado27.tlb"
+"msadox.dll"
+"MSCOMCTL.OCX"
+"MSCMCKO.DLL"
+"msflxgrd.ocx"
+"FLXGDKO.DLL"
+"MSDBRPTR.DLL"
+"msstdfmt.dll"
+"DBRPRKO.DLL"
+"MSDERUN.DLL"
+"MSBIND.DLL"
+"SYSINFO.OCX"
+"SYSINKO.DLL"
+"MSCAL.OCX"
+"MSCOMCT2.OCX"
+"MSCC2KO.DLL"
+"MSCHRT20.OCX"
+"MSCH2KO.DLL"
+"MSCOMM32.OCX"
+"MDAC_TYP.EXE"
+"SETUP1.EXE"
+"VB6STKIT.DLL"
+"ST6UNST.EXE"
+"Main.xlsx"
+"DataSearch.xlsx"
+"tmpData.txt"

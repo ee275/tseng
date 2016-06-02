@@ -1,0 +1,5 @@
+
+@ECHO OFF
+SETX TEMP "C:\TEMP"
+SETX TMP "C:\TEMP"
+setup.exe

@@ -1,0 +1,168 @@
+[Root]
+Most Recent Package=선량계
+
+
+[Package|선량계|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Users\chiho.lee\Desktop\modul\sample\project
+
+[Package|선량계|Configure DAO ISAMs]
+Applicable=No
+
+[Package|선량계|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|선량계|Files Found]
+tmpData.txt=C:\Users\chiho.lee\Desktop\modul\sample\tmpData.txt
+
+[Package|선량계|Files Released]
+wincom.ocx=
+
+[Package|선량계|Missing Dependency Information]
+C:\Windows\SysWOW64\msstdfmt.dll=
+C:\Program Files (x86)\Common Files\System\ado\msadox.dll=
+C:\Program Files (x86)\Common Files\System\ado\msado27.tlb=
+C:\Users\chiho.lee\Desktop\modul\sample\wincom.ocx=
+C:\Users\chiho.lee\Desktop\modul\sample\MSCOMM32.OCX=
+C:\Windows\MSCOMM32.OCX=
+
+[Package|선량계|Out-of-Date Dependency Information]
+C:\Windows\SysWOW64\MSCHRT20.OCX=
+C:\Windows\SysWOW64\MSCOMCT2.OCX=
+C:\Windows\SysWOW64\MSCAL.OCX=
+C:\Windows\SysWOW64\MSDBRPTR.DLL=
+C:\Windows\SysWOW64\msflxgrd.ocx=
+C:\Windows\SysWOW64\MSCOMCTL.OCX=
+
+[Package|선량계|Files Added]
+c:\users\chiho.lee\desktop\modul\sample\main.xlsx=
+c:\users\chiho.lee\desktop\modul\sample\datasearch.xlsx=
+c:\users\chiho.lee\desktop\modul\sample\data.mdb=
+tmpdata.txt=
+
+[Package|선량계|Files Removed]
+c:\users\chiho.lee\desktop\modul\sample\data.mdb=
+
+[Package|선량계|Files In Project]
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\Vb6ko.dll=Yes
+C:\Program Files (x86)\Common Files\System\ado\msado27.tlb=Yes
+C:\Program Files (x86)\Common Files\System\ado\msadox.dll=Yes
+C:\Windows\SysWOW64\MSCOMCTL.OCX=Yes
+C:\Windows\SysWOW64\MSCMCKO.DLL=Yes
+C:\Windows\SysWOW64\msflxgrd.ocx=Yes
+C:\Windows\SysWOW64\FLXGDKO.DLL=Yes
+C:\Windows\SysWOW64\MSDBRPTR.DLL=Yes
+C:\Windows\SysWOW64\msstdfmt.dll=Yes
+C:\Windows\SysWOW64\DBRPRKO.DLL=Yes
+C:\Program Files (x86)\Common Files\Designer\MSDERUN.DLL=Yes
+C:\Windows\SysWOW64\MSBIND.DLL=Yes
+C:\Windows\SysWOW64\SYSINFO.OCX=Yes
+C:\Windows\SysWOW64\SYSINKO.DLL=Yes
+C:\Windows\SysWOW64\MSCAL.OCX=Yes
+C:\Windows\SysWOW64\MSCOMCT2.OCX=Yes
+C:\Windows\SysWOW64\MSCC2KO.DLL=Yes
+C:\Windows\SysWOW64\MSCHRT20.OCX=Yes
+C:\Windows\SysWOW64\MSCH2KO.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Users\chiho.lee\Desktop\modul\sample\Radio.exe=Yes
+C:\Users\chiho.lee\Desktop\modul\sample\Main.xlsx=Yes
+C:\Users\chiho.lee\Desktop\modul\sample\DataSearch.xlsx=Yes
+C:\Users\chiho.lee\Desktop\modul\sample\Data.MDB=No
+C:\Users\chiho.lee\Desktop\modul\sample\tmpData.txt=Yes
+C:\Windows\MSCOMM32.OCX=Yes
+
+[Package|선량계|Configure Registry Files]
+Applicable=No
+
+[Package|선량계|Configure Remote Servers]
+Applicable=No
+
+[Package|선량계|Install Locations]
+C:\Users\chiho.lee\Desktop\모듈\샘플자료\Radio.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\Vb6ko.dll=$(WinSysPath)
+C:\Program Files (x86)\Common Files\System\ado\msado27.tlb=$(WinSysPath)
+C:\Program Files (x86)\Common Files\System\ado\msadox.dll=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMCTL.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCMCKO.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMM32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMKO.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\msflxgrd.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\FLXGDKO.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSDBRPTR.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\msstdfmt.dll=$(WinSysPath)
+C:\Windows\SysWOW64\DBRPRKO.DLL=$(WinSysPath)
+C:\Program Files (x86)\Common Files\Designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Windows\SysWOW64\MSBIND.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\SYSINFO.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\SYSINKO.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSCAL.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMCT2.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCC2KO.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSCHRT20.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCH2KO.DLL=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Users\chiho.lee\Desktop\modul\sample\Radio.exe=$(AppPath)
+C:\Users\chiho.lee\Desktop\modul\sample\Main.xlsx=$(AppPath)
+C:\Users\chiho.lee\Desktop\modul\sample\DataSearch.xlsx=$(AppPath)
+C:\Users\chiho.lee\Desktop\modul\sample\wincom.ocx=$(WinSysPath)
+C:\Users\chiho.lee\Desktop\modul\sample\MSCOMM32.OCX=$(WinSysPath)
+C:\Windows\MSCOMM32.OCX=$(WinPath)
+C:\Users\chiho.lee\Desktop\modul\sample\Data.MDB=$(AppPath)
+C:\Users\chiho.lee\Desktop\modul\sample\tmpData.txt=$(AppPath)
+
+[Package|선량계|Configure Shared Files]
+Applicable=Yes
+C:\Users\chiho.lee\Desktop\모듈\샘플자료\Radio.exe=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Users\chiho.lee\Desktop\modul\sample\Radio.exe=No
+C:\Users\chiho.lee\Desktop\modul\sample\Main.xlsx=No
+C:\Users\chiho.lee\Desktop\modul\sample\DataSearch.xlsx=No
+C:\Users\chiho.lee\Desktop\modul\sample\Data.MDB=No
+C:\Users\chiho.lee\Desktop\modul\sample\tmpData.txt=No
+
+[Package|선량계|Distribution]
+Type=single
+Size=
+Title=선량계
+
+[Package|선량계|IconGroups]
+Group0=선량계
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|선량계|선량계]
+Icon1=Radio.exe
+Title1=선량계
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|선량계|Package]
+PackageFolder=C:\Users\chiho.lee\Desktop\modul\sample\project
+ProjectFolder=C:\Users\chiho.lee\Desktop\modul\sample
+ServerSideCab=
+File1=C:\Users\chiho.lee\Desktop\modul\sample\project\setup.exe
+File2=C:\Users\chiho.lee\Desktop\modul\sample\project\Setup.Lst
+File3=C:\Users\chiho.lee\Desktop\modul\sample\project\Radio.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
